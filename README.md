@@ -1,3 +1,7 @@
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 ### Hi there 👋
 
 A bit about me:
@@ -8,10 +12,10 @@ A bit about me:
 
 Want to know more? I frequently on my blog about code, development best-practices, my career, and life in general. [Check it out here!](https://elijahverdoorn.com)
 
-<a class="twitter-timeline" href="https://twitter.com/elijahverdoorn?ref_src=twsrc%5Etfw">Tweets by elijahverdoorn</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/elijahverdoorn?ref_src=twsrc%5Etfw">Tweets by elijahverdoorn</a>
+
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="elijahverdoorn"><a class="LI-simple-link" href='https://www.linkedin.com/in/elijahverdoorn?trk=profile-badge'>Elijah Verdoorn</a></div>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 
